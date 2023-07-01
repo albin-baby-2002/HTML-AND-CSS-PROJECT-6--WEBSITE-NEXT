@@ -183,12 +183,13 @@ section {
   background-color: rgb(0, 0, 0);
 }
 
+
 .toggle__bar.active .bar:nth-child(1) {
-  transform: rotate(-45deg) translateY(24px);
+  transform: rotate(-45deg) translateX(-7px) translateY(17px);
 }
 
 .toggle__bar.active .bar:nth-child(3) {
-  transform: rotate(45deg) translateY(-24px);
+  transform: rotate(45deg) translateX(-7px) translateY(-17px);
 }
 
 .toggle__bar.active .bar:nth-child(2) {
