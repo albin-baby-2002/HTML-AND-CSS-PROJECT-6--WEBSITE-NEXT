@@ -185,11 +185,11 @@ section {
 
 
 .toggle__bar.active .bar:nth-child(1) {
-  transform: rotate(-45deg) translateX(-7px) translateY(17px);
+  transform: rotate(-45deg) translateX(-7px) translateY(23px);
 }
 
 .toggle__bar.active .bar:nth-child(3) {
-  transform: rotate(45deg) translateX(-7px) translateY(-17px);
+  transform: rotate(45deg) translateX(-7px) translateY(-23px);
 }
 
 .toggle__bar.active .bar:nth-child(2) {
